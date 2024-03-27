@@ -1,0 +1,16 @@
+nav{
+  background-color: chocolate;
+  height: 300px;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+li{
+  text-decoration: none;
+}
+a{
+  color: white;
+}
+ul{
+  text-decoration: none;
+}
